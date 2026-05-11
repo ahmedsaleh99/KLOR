@@ -5,7 +5,7 @@ C:\Users\ahmed\Work\KLOR\PCB\Altuim\Project Outputs for klor1_4\Pick Place\Pick 
 File Design Information:
 
 Date:       11/05/26
-Time:       16:17
+Time:       16:39
 Revision:   43ca77032ed8828815a21d35339230112d09b4ba
 Variant:    No variations
 Units used: mil
@@ -55,7 +55,7 @@ Units used: mil
 "SW17","SW_PUSH-MX","TopLayer","CHERRY-CPG151101S11","-6315.095","729.228","190",""
 "BT1","JST Connector","TopLayer","JST_PH_2PINS","-1064.173","1234.252","90","Conn Shrouded Header (4 Sides) HDR 2 POS 2mm Solder RA Side Entry Thru-Hole Box"
 "JP26","Device_Jumper_NO_Small","TopLayer","SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm","-1657.480","-551.181","60",""
-"PSW1","SW_DPDT_x2","BottomLayer","MSK12C02_REVERSIBLE","-1095.718","2799.164","180","Slide Switches SPDT switch length: 8mm, switch width: 2.8mm"
+"PSW1","SW_DPDT_x2","BottomLayer","SW_MSK12C02","-1081.446","2804.086","270","Slide Switches SPDT switch length: 8mm, switch width: 2.8mm"
 "D23","D_Small","TopLayer","DIODE_SOD123","1334.646","2814.961","180","Switching Diodes (Small Signal) SOD123 IR=5µA Io=150mA"
 "LED35","SK6812MINI-E","TopLayer","SK6812MINI-E","2234.252","920.275","0","Conn Shrouded Header (4 Sides) HDR 2 POS 2mm Solder RA Side Entry Thru-Hole Box"
 "SW44","RotaryEncoder_Switch","BottomLayer","ROTARYENCODER_ALPS_EC11E-SWITCH_VERTICAL_H20MM-KEEBIO_MODIFIED","473.228","834.646","0","Mechanical Encoder Rotary Incremental Flat 0.01N.m Straight Quadrature Digital Square Wave 15PPR Through Hole PC Pin..."
@@ -63,7 +63,7 @@ Units used: mil
 "BT3","JST Connector","TopLayer","JST_PH_2PINS","-38.189","1234.252","270","Conn Shrouded Header (4 Sides) HDR 2 POS 2mm Solder RA Side Entry Thru-Hole Box"
 "RSW1","SW_Push","BottomLayer","SW_PUSH_1P1T-MP_NO_HORIZONTAL_ALPS_SKRTLAE010_BOTH_SIDES","-1059.646","570.472","270","Tactile Switch, SKRT, Side Actuated, Surface Mount, Round Button, 160 gf, 50mA at 12VDC"
 "RSW2","SW_Push","BottomLayer","SW_PUSH_1P1T-MP_NO_HORIZONTAL_ALPS_SKRTLAE010_BOTH_SIDES","-42.717","570.472","90","Tactile Switch, SKRT, Side Actuated, Surface Mount, Round Button, 160 gf, 50mA at 12VDC"
-"PSW2","SW_DPDT_x2","BottomLayer","MSK12C02_REVERSIBLE","-8.613","2809.007","0","Slide Switches SPDT switch length: 8mm, switch width: 2.8mm"
+"PSW2","SW_DPDT_x2","BottomLayer","SW_MSK12C02","-22.885","2804.086","90","Slide Switches SPDT switch length: 8mm, switch width: 2.8mm"
 "D44","D_Small","TopLayer","DIODE_SOD123","822.835","637.795","180","Switching Diodes (Small Signal) SOD123 IR=5µA Io=150mA"
 "J5","lv2","BottomLayer","lvc27_onlyInput","2350.394","592.520","90",""
 "J3","lv27","BottomLayer","lvc27_onlyInput","-3453.149","592.520","90",""
