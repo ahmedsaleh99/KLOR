@@ -4,13 +4,21 @@ C:\Users\ahmed\Work\KLOR\PCB\Altuim\Project Outputs for klor1_4\Pick Place\Pick 
 ========================================================================================================================
 File Design Information:
 
-Date:       11/05/26
-Time:       16:39
-Revision:   43ca77032ed8828815a21d35339230112d09b4ba
+Date:       12/05/26
+Time:       11:14
+Revision:   a2d4a8ca3458515d8b653078465a25053d6d9580
 Variant:    No variations
 Units used: mil
 
 "Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U6","ELV1411A","TopLayer","SMD-16_ELV1411A","-5736.221","2618.111","180",""
+"C4","Capacitor","BottomLayer","FP-C0402-BB-MFG","-5881.890","2531.496","180",""
+"C3","Capacitor","BottomLayer","FP-C0402-BB-MFG","-5881.890","2704.724","180",""
+"U5","DRV2605LTDGSRQ1","BottomLayer","FP-DGS0010A-MFG","-5748.032","2618.110","270","IC MOTOR DRIVER 2V-5.2V 10VSSOP"
+"C2","Capacitor","BottomLayer","FP-C0402-BB-MFG","4555.118","2629.921","180",""
+"C1","Capacitor","BottomLayer","FP-C0402-BB-MFG","4555.118","2803.150","180",""
+"U3","DRV2605LTDGSRQ1","BottomLayer","FP-DGS0010A-MFG","4669.291","2716.535","270","IC MOTOR DRIVER 2V-5.2V 10VSSOP"
+"U4","ELV1411A","TopLayer","SMD-16_ELV1411A","4655.511","2722.441","180",""
 "SW40","SW_PUSH-MX","TopLayer","CHERRY-CPG151101S11","-7.392","-572.757","225",""
 "SW41","SW_PUSH-MX","TopLayer","CHERRY-CPG151101S11","691.369","-40.121","210",""
 "SW42","SW_PUSH-MX","TopLayer","CHERRY-CPG151101S11","1504.976","290.618","195",""
@@ -58,7 +66,7 @@ Units used: mil
 "PSW1","SW_DPDT_x2","BottomLayer","SW_MSK12C02","-1081.446","2804.086","270","Slide Switches SPDT switch length: 8mm, switch width: 2.8mm"
 "D23","D_Small","TopLayer","DIODE_SOD123","1334.646","2814.961","180","Switching Diodes (Small Signal) SOD123 IR=5µA Io=150mA"
 "LED35","SK6812MINI-E","TopLayer","SK6812MINI-E","2234.252","920.275","0","Conn Shrouded Header (4 Sides) HDR 2 POS 2mm Solder RA Side Entry Thru-Hole Box"
-"SW44","RotaryEncoder_Switch","BottomLayer","ROTARYENCODER_ALPS_EC11E-SWITCH_VERTICAL_H20MM-KEEBIO_MODIFIED","473.228","834.646","0","Mechanical Encoder Rotary Incremental Flat 0.01N.m Straight Quadrature Digital Square Wave 15PPR Through Hole PC Pin..."
+"SW44","RotaryEncoder_Switch","BottomLayer","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified","473.228","834.646","90","Mechanical Encoder Rotary Incremental Flat 0.01N.m Straight Quadrature Digital Square Wave 15PPR Through Hole PC Pin..."
 "J4","MJ-4PP-9","BottomLayer","MJ-4PP-9","154.724","245.079","270","-20?~+70? 3.5mm Headphone Jack 235? 30V 500mA Plugin Audio Connectors (Headphones) ROHS"
 "BT3","JST Connector","TopLayer","JST_PH_2PINS","-38.189","1234.252","270","Conn Shrouded Header (4 Sides) HDR 2 POS 2mm Solder RA Side Entry Thru-Hole Box"
 "RSW1","SW_Push","BottomLayer","SW_PUSH_1P1T-MP_NO_HORIZONTAL_ALPS_SKRTLAE010_BOTH_SIDES","-1059.646","570.472","270","Tactile Switch, SKRT, Side Actuated, Surface Mount, Round Button, 160 gf, 50mA at 12VDC"
@@ -67,7 +75,6 @@ Units used: mil
 "D44","D_Small","TopLayer","DIODE_SOD123","822.835","637.795","180","Switching Diodes (Small Signal) SOD123 IR=5µA Io=150mA"
 "J5","lv2","BottomLayer","lvc27_onlyInput","2350.394","592.520","90",""
 "J3","lv27","BottomLayer","lvc27_onlyInput","-3453.149","592.520","90",""
-"J6","lv2","TopLayer","PIMORONI_HAPTIC_BUZZ_DRV2605L_DRIVER","4593.701","3154.094","0",""
 "TP1","tenting-puck","TopLayer","SplitkbTentingPuckWithoutCenterHole","-3711.614","1815.157","270",""
 "TP2","tenting-puck","BottomLayer","SplitkbTentingPuckWithoutCenterHole","2609.252","1815.157","270",""
 "D41","D_Small","TopLayer","DIODE_SOD123","456.693","11.811","210","Switching Diodes (Small Signal) SOD123 IR=5µA Io=150mA"
@@ -113,7 +120,6 @@ Units used: mil
 "MH17","MountingHole_3.2mm_M3","BottomLayer","MOUNTINGHOLE_3.2MM_M3","3867.717","499.213","180",""
 "MH10","MountingHole_3.2mm_M3","BottomLayer","MOUNTINGHOLE_3.2MM_M3","0.000","3127.165","180",""
 "BZ2","Buzzer","BottomLayer","BUZZER_MALLORY_AST1109MLTRQ_REVERSIBLE","3014.764","742.520","180","70dB Passive (external drive) Piezoelectric SMD, 9x11mm Buzzers ROHS"
-"MH18","MountingHole_2.2mm_M2","BottomLayer","MountingHole_2.2mm_M2","4327.953","2389.764","180",""
 "OLED2","SSD1306","BottomLayer","SSD1306_128X64OLED","511.776","1444.685","0",""
 "MH13","MountingHole_3.2mm_M3","BottomLayer","MOUNTINGHOLE_3.2MM_M3","4160.236","3087.401","180",""
 "MH12","MountingHole_3.2mm_M3","BottomLayer","MOUNTINGHOLE_3.2MM_M3","3575.984","3127.165","180",""
@@ -168,8 +174,7 @@ Units used: mil
 "MH8","MountingHole_3.2mm_M3","BottomLayer","MOUNTINGHOLE_3.2MM_M3","-4970.079","499.213","180",""
 "MH1","MountingHole_3.2mm_M3","BottomLayer","MOUNTINGHOLE_3.2MM_M3","-1102.362","3127.165","180",""
 "BZ1","Buzzer","BottomLayer","BUZZER_MALLORY_AST1109MLTRQ_REVERSIBLE","-4117.126","742.520","180","70dB Passive (external drive) Piezoelectric SMD, 9x11mm Buzzers ROHS"
-"MH9","MountingHole_2.2mm_M2","BottomLayer","MountingHole_2.2mm_M2","-5430.315","2389.764","180",""
-"SW18","RotaryEncoder_Switch","BottomLayer","ROTARYENCODER_ALPS_EC11E-SWITCH_VERTICAL_H20MM-KEEBIO_MODIFIED","-1575.591","834.646","180","Mechanical Encoder Rotary Incremental Flat 0.01N.m Straight Quadrature Digital Square Wave 15PPR Through Hole PC Pin..."
+"SW18","RotaryEncoder_Switch","BottomLayer","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified","-1575.591","834.646","270","Mechanical Encoder Rotary Incremental Flat 0.01N.m Straight Quadrature Digital Square Wave 15PPR Through Hole PC Pin..."
 "OLED1","SSD1306","BottomLayer","SSD1306_128X64OLED","-1620.831","1444.685","0",""
 "J1","MJ-4PP-9","BottomLayer","MJ-4PP-9","-1257.087","298.228","90","-20?~+70? 3.5mm Headphone Jack 235? 30V 500mA Plugin Audio Connectors (Headphones) ROHS"
 "MH6","MountingHole_3.2mm_M3","BottomLayer","MOUNTINGHOLE_3.2MM_M3","-1102.362","0.000","180",""
@@ -182,4 +187,3 @@ Units used: mil
 "D1","D_Small","TopLayer","DIODE_SOD123","-2921.260","2629.921","90","Switching Diodes (Small Signal) SOD123 IR=5µA Io=150mA"
 "MH2","MountingHole_3.2mm_M3","BottomLayer","MOUNTINGHOLE_3.2MM_M3","-3546.457","3127.165","180",""
 "U1","ProMicro","TopLayer","PROMICRO","-1617.323","2533.071","0",""
-"J2","Haptic Buzz","TopLayer","PIMORONI_HAPTIC_BUZZ_DRV2605L_DRIVER","-5696.062","3154.094","0",""
