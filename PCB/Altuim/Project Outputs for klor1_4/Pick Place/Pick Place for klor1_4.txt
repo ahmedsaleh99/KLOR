@@ -4,21 +4,21 @@ C:\Users\ahmed\Work\KLOR\PCB\Altuim\Project Outputs for klor1_4\Pick Place\Pick 
 ========================================================================================================================
 File Design Information:
 
-Date:       12/05/26
-Time:       11:14
-Revision:   a2d4a8ca3458515d8b653078465a25053d6d9580
+Date:       16/05/26
+Time:       16:48
+Revision:   3a7e7dceb1f10ace078299f0b4b2ddc2e69e341f
 Variant:    No variations
 Units used: mil
 
 Designator Comment                Layer       Footprint                                                      Center-X(mil) Center-Y(mil) Rotation Description                                                                                                               
-U6         ELV1411A               TopLayer    SMD-16_ELV1411A                                                -5736.221     2618.111      180      ""                                                                                                                        
+U6         ELV1411A               TopLayer    SMD-16_ELV1411A                                                -5736.221     2618.111      180      "11mm x 14mm Rectangular Linear Vibration Motor Model NFP-ELV1411A-A1"                                                    
 C4         Capacitor              BottomLayer FP-C0402-BB-MFG                                                -5881.890     2531.496      180      ""                                                                                                                        
 C3         Capacitor              BottomLayer FP-C0402-BB-MFG                                                -5881.890     2704.724      180      ""                                                                                                                        
 U5         DRV2605LTDGSRQ1        BottomLayer FP-DGS0010A-MFG                                                -5748.032     2618.110      270      "IC MOTOR DRIVER 2V-5.2V 10VSSOP"                                                                                         
 C2         Capacitor              BottomLayer FP-C0402-BB-MFG                                                4555.118      2629.921      180      ""                                                                                                                        
 C1         Capacitor              BottomLayer FP-C0402-BB-MFG                                                4555.118      2803.150      180      ""                                                                                                                        
 U3         DRV2605LTDGSRQ1        BottomLayer FP-DGS0010A-MFG                                                4669.291      2716.535      270      "IC MOTOR DRIVER 2V-5.2V 10VSSOP"                                                                                         
-U4         ELV1411A               TopLayer    SMD-16_ELV1411A                                                4655.511      2722.441      180      ""                                                                                                                        
+U4         ELV1411A               TopLayer    SMD-16_ELV1411A                                                4655.511      2722.441      180      "11mm x 14mm Rectangular Linear Vibration Motor Model NFP-ELV1411A-A1"                                                    
 SW40       SW_PUSH-MX             TopLayer    CHERRY-CPG151101S11                                            -7.392        -572.757      225      ""                                                                                                                        
 SW41       SW_PUSH-MX             TopLayer    CHERRY-CPG151101S11                                            691.369       -40.121       210      ""                                                                                                                        
 SW42       SW_PUSH-MX             TopLayer    CHERRY-CPG151101S11                                            1504.976      290.618       195      ""                                                                                                                        
