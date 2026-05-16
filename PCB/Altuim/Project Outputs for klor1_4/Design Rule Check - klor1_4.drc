@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\ahmed\Work\KLOR\PCB\Altuim\klor1_4.PcbDoc
 Date     : 5/16/2026
-Time     : 4:46:48 PM
+Time     : 5:10:08 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
    Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (118.084mm,66.816mm)(118.1mm,66.8mm) on Bottom Layer And Track (118.6mm,66.8mm)(118.6mm,69.1mm) on Bottom Layer 
@@ -85,4 +85,4 @@ Rule Violations :0
 
 Violations Detected : 7
 Waived Violations : 0
-Time Elapsed        : 00:00:15
+Time Elapsed        : 00:00:16
