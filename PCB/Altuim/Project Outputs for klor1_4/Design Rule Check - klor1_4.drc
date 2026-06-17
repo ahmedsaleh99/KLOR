@@ -1,16 +1,16 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\ahmed\Work\KLOR\PCB\Altuim\klor1_4.PcbDoc
-Date     : 5/16/2026
-Time     : 5:10:08 PM
+Date     : 6/17/2026
+Time     : 4:10:17 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (118.084mm,66.816mm)(118.1mm,66.8mm) on Bottom Layer And Track (118.6mm,66.8mm)(118.6mm,69.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (118.6mm,66.8mm)(118.6mm,69.1mm) on Bottom Layer And Track (119.1mm,66.8mm)(119.1mm,67.39mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (118.6mm,66.8mm)(118.6mm,69.1mm) on Bottom Layer And Track (119.1mm,67.39mm)(119.108mm,67.398mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (-145.5mm,64.3mm)(-145.5mm,64.89mm) on Bottom Layer And Track (-146mm,64.3mm)(-146mm,67.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (-145.5mm,64.89mm)(-145.492mm,64.898mm) on Bottom Layer And Track (-146mm,64.3mm)(-146mm,67.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (-146.516mm,64.898mm)(-146.5mm,64.882mm) on Bottom Layer And Track (-146mm,64.3mm)(-146mm,67.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (-146.5mm,64.3mm)(-146.5mm,64.882mm) on Bottom Layer And Track (-146mm,64.3mm)(-146mm,67.3mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (-112.04mm,13.93mm)(-112.04mm,14.52mm) on Bottom Layer And Track (-112.54mm,13.93mm)(-112.54mm,16.93mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (-112.04mm,14.52mm)(-112.032mm,14.528mm) on Bottom Layer And Track (-112.54mm,13.93mm)(-112.54mm,16.93mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (-112.54mm,13.93mm)(-112.54mm,16.93mm) on Bottom Layer And Track (-113.04mm,13.93mm)(-113.04mm,14.512mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (-112.54mm,13.93mm)(-112.54mm,16.93mm) on Bottom Layer And Track (-113.056mm,14.528mm)(-113.04mm,14.512mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (151.544mm,16.446mm)(151.56mm,16.43mm) on Bottom Layer And Track (152.06mm,16.43mm)(152.06mm,18.73mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (152.06mm,16.43mm)(152.06mm,18.73mm) on Bottom Layer And Track (152.56mm,16.43mm)(152.56mm,17.02mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Track (152.06mm,16.43mm)(152.06mm,18.73mm) on Bottom Layer And Track (152.56mm,17.02mm)(152.568mm,17.028mm) on Bottom Layer 
 Rule Violations :7
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (HasFootprint('SK6812MINI-E')),(All)
@@ -85,4 +85,4 @@ Rule Violations :0
 
 Violations Detected : 7
 Waived Violations : 0
-Time Elapsed        : 00:00:16
+Time Elapsed        : 00:01:11
